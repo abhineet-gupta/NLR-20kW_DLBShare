@@ -1,0 +1,1 @@
+NOTE: I need to have spd_trq.dat and Brake_Spd_Trq.dat in the same folders as the run_DLCxxxx.bat 
